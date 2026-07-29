@@ -1,0 +1,6 @@
+{
+  "name": "upPETure - Recycle & Earn",
+  "description": "Campus recycling and rewards platform for Eco-Warriors with smart bin integration, leaderboards, marketplace, and live streak tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
